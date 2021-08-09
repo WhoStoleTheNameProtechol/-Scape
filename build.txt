@@ -1,0 +1,5 @@
+displayName = Scape
+author = Protechol, Kirbygamer, FrozenDev
+version = 1.0.6
+homepage = https://discord.gg/Ejqb3dfe7b
+includePDB = true
